@@ -1,4 +1,3 @@
-# PCF8575_16-bit_I-O_Expander
 ![Under Construction](https://img.shields.io/badge/status-under--construction-yellow)
 
 # PCF8575 I/O Expander Blink Control
