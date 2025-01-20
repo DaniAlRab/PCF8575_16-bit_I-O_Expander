@@ -92,13 +92,3 @@ All pins off...
 - The enable pin can be used to control the power to the PCF8575 dynamically.
 
 ---
-
-## License
-This project is licensed under the MIT License.
-
----
-
-## Author
-Chappie - Electrical Engineer with expertise in electronics, microcontrollers, and I2C-based devices.
-
-
