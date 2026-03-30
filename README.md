@@ -1,6 +1,6 @@
 ![Under Construction](https://img.shields.io/badge/status-under--construction-yellow)
 
-![Alt](PCF7585_Board.jpg)
+![Alt](PCF7585_Board.webp)
 
 # PCF8575 I/O Expander Blink Control
 
