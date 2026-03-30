@@ -9,7 +9,7 @@ This project demonstrates the use of a **PCF8575 I/O Expander** with an ESP32 mi
 ![Alt](PCF7585_Board.jpg)
 
 
-<img src="PCF7585_Board.jpg)" width="48">
+<img src="PCF7585_Board.jpg)" width="18">
 
 
 
