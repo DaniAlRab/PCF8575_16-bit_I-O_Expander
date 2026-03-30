@@ -5,18 +5,9 @@
 ## Project Overview
 This project demonstrates the use of a **PCF8575 I/O Expander** with an ESP32 microcontroller to control 16 digital I/O pins over the I2C bus. The code enables all pins on the PCF8575 to blink in a sequential pattern, turning them on and off with a delay.
 
-
-//![Alt](PCF7585_Board.jpg)
-
-
-<p align="center">
-  <img src="PCF7585_Board.jpg" width="400">
-</p>
-
-
+![Alt](PCF7585_Board.jpg)
 
 ---
-
 ## Key Features
 - **I/O Expansion:**
   - Controls up to 16 digital pins using a PCF8575 I/O Expander.
