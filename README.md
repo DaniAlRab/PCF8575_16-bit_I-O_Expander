@@ -1,5 +1,7 @@
 ![Under Construction](https://img.shields.io/badge/status-under--construction-yellow)
 
+![Alt](PCF7585_Board.jpg)
+
 # PCF8575 I/O Expander Blink Control
 
 ## Project Overview
@@ -21,7 +23,11 @@ This project demonstrates the use of a **PCF8575 I/O Expander** with an ESP32 mi
 
 ---
 
+
 ## Hardware Requirements
+
+![Alt](ESP32_PCF7585_TestCircuit.jpg)
+
 - **ESP32 Development Board**
 - **PCF8575 I/O Expander**
 - **I2C Bus**:
