@@ -1,11 +1,17 @@
 ![Under Construction](https://img.shields.io/badge/status-under--construction-yellow)
 
-![Alt](PCF7585_Board.jpg)
-
 # PCF8575 I/O Expander Blink Control
 
 ## Project Overview
 This project demonstrates the use of a **PCF8575 I/O Expander** with an ESP32 microcontroller to control 16 digital I/O pins over the I2C bus. The code enables all pins on the PCF8575 to blink in a sequential pattern, turning them on and off with a delay.
+
+
+![Alt](PCF7585_Board.jpg)
+
+
+<img src="PCF7585_Board.jpg)" width="48">
+
+
 
 ---
 
